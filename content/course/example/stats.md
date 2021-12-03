@@ -33,6 +33,3 @@ The variance of the distribution is $\sigma^{2}$.
 {{< spoiler text="What is the parameter $\mu$?" >}}
 The parameter $\mu$ is the mean or expectation of the distribution.
 {{< /spoiler >}}
-{{< spoiler text="Tulskan rumus abc!" >}}
-Rumus abc adalah $$x = \frac{-b\ \pm\ \sqrt{b^2 - 4ac}}{2a}$$
-{{< /spoiler >}}

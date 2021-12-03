@@ -15,6 +15,18 @@ main:
     url: '/course/example/'
     weight: 10
     parent: courses
+  - name: Matematika-VII
+    url: '/course/matematika-7/'
+    weight: 10
+    parent: courses
+  - name: Matematika-VIII
+    url: '/course/matematika-8/'
+    weight: 10
+    parent: courses
+  - name: Matematika-IX
+    url: '/course/matematika-9/'
+    weight: 10
+    parent: courses
   - name: Blog
     url: '/post'
     weight: 30

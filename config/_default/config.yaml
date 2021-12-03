@@ -1,10 +1,10 @@
-ka# Configuration of Hugo
+# Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Matematika-SMP # Website name
-baseurl: 'https://ayo-sinau.netlify.app' # Website URL
+baseurl: '' # Website URL
 copyright: '© {year} Kaje' # Footer text, e.g. '© {year} Me'
 
 ############################
