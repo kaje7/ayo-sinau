@@ -15,15 +15,15 @@ main:
     url: '/course/example/'
     weight: 10
     parent: courses
-  - name: Matematika-VII
+  - name: Matematika-7
     url: '/course/matematika-7/'
     weight: 10
     parent: courses
-  - name: Matematika-VIII
+  - name: Matematika-8
     url: '/course/matematika-8/'
     weight: 10
     parent: courses
-  - name: Matematika-IX
+  - name: Matematika-9
     url: '/course/matematika-9/'
     weight: 10
     parent: courses

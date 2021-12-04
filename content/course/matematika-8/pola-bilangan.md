@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Spldv"
+title: "Pola Bilangan"
 subtitle: ""
 summary: ""
-authors: [admin]
-tags: [spldv]
-categories: [Matematika-VIII]
-date: 2021-12-03T21:57:25+07:00
-lastmod: 2021-12-03T21:57:25+07:00
-type: book
+authors: []
+tags: []
+categories: []
+date: 2021-12-03T14:46:18+07:00
+lastmod: 2021-12-04T14:46:18+07:00
 featured: false
 draft: false
-math: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,6 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-## Sistem Persamaan Linear Dua Variabel
-
