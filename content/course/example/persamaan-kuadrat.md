@@ -50,7 +50,9 @@ Dengan syarat $a \neq 0$ dan $a, b, c \in R$.
 
 ## Quiz
 
-{{< spoiler text="Tentukan penyelesaian dari $x^2 + 4x - 12 = 0$" >}}
+{{< spoiler text="Tentukan penyelesaian dari $x^2 + 4x - 12 = 0$" >}}{{< spoiler >}}
+
+<br>
 
 Nilai $a = 1$, $b = 4$, dan $c = -12$
 
