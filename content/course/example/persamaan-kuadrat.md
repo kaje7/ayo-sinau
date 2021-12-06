@@ -54,6 +54,7 @@ Dengan syarat $a \neq 0$ dan $a, b, c \in R$.
 
 <br>
 
+### Penyelesaian:
 Nilai $a = 1$, $b = 4$, dan $c = -12$
 
 <br>
