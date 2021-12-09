@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaje
+title: Hermawan
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,16 +10,16 @@ role: Math Instructor
 
 # Organizations/Affiliations
 organizations:
-- name: SMP Nusantara
+- name: SMPN # 4 Lamongan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  Guru matematika yang menyukai tentang pemrograman web.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Python
+- Flask
+- Hugo
 
 # education:
   # courses:
@@ -40,13 +40,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:hermawan.joe@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/hermawanye
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hermawanjoe
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,4 +60,4 @@ user_groups:
 - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

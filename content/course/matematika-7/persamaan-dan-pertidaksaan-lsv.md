@@ -27,3 +27,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+### 1. Konsep Persamaan Linear Satu Variabel
+
+### 2. Menyelesaikan Persamaan Menggunakan Penjumlahan atau Pengurangan
+
+### 3. Menyelesaikan Persamaan Menggunakan Perkalian atau Pembagian
+
+### 4. Konsep Pertidaksamaan Linear Satu Variabel
+
+### 5. Menyelesaikan Masalah Pertidaksamaan Linear Satu Variabel

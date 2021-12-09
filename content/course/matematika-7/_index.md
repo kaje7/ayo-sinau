@@ -10,15 +10,20 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Apa yang akan kamu pelajari
 
-- {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- {{<hl>}}Bilangan{{</hl>}} Bulat dan beberapa bilangan terkait bilangan bulat.
+- {{<hl>}}Himpunan{{</hl>}}
+- {{<hl>}}Bentuk Aljabar{{</hl>}}, sebagai pengantar untuk {{<hl>}}Persamaan Linear Satu Variabel{{</hl>}}
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Bilangan, membahas tentang beberapa jenis bilangan dalam bilangan bulat dan bilangan pecahan serta operasi dasar (penjumlahan, pengurangan, perkalian dan pembagian). Mengenalkan bilangan berpangkat bulat positif.
+
+Himpunan, memperkenalkan konsep kelompok sejenis yang dapat ditentukan.
+
+Bentuk Aljabar dapat dipandang sebagai terjemahan kalimat biasa (soal cerita) ke dalam kalimat matematika (bentuk aljabar). Sedangkan Persamaan Linear Satu Varibael adalah pengembangan lebih lanjut dari Bentuk Aljabar.
+
 
 ## Courses in this program
 
@@ -30,12 +35,12 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Apakah ada syarat khusus untuk mempelajari materi tersebut?" >}}
+Untuk materi Bilangan, memerlukan kecakapan tentang Bilangan dan operasi dasarnya, yang sudah dipelajari di tingkat sebelumnya (SD/MI).
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="Apakah ada alat bantu yang dibutuhkan untuk mempelajari materi itu?" >}}
+Secara umum adalah alat tulis ditambah buku strimin (kotak-kotak) dan penggaris.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="himpunan" >}}
+{{< cta cta_text="Mulai belajar" cta_link="bilangan" >}}
