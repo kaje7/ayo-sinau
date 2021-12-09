@@ -50,11 +50,16 @@ Dengan syarat $a \neq 0$ dan $a, b, c \in R$.
 
 ## Quiz
 
-{{< spoiler text="Tentukan penyelesaian dari $x^2 + 4x - 12 = 0$" >}}
+Tentukan penyelesaian dari $x^2 + 4x - 12 = 0$"
+
+
 Nilai $a = 1$, $b = 4$, dan $c = -12$
-<br>
-{{< spoiler text="**Penyelesaian**" >}}:
-$$\begin{aligned}x_{1,2} &= \frac{-b\ \pm \sqrt{b^2 - 4ac}}{2a}\\\\ &= \frac{-(4)\ \pm \sqrt{(4)^2 - 4(1)(-12)}}{2(1)}\\\\    &= \frac{-4\ \pm \sqrt{16 + 48}}{2}\\\\ &= \frac{-4\ \pm \sqrt{64}}{2}\\\\ &= \frac{-4\ \pm 8}{2}\\\\ x_1 &= \frac{-4 + 8}{2} = \frac{4}{2} = 2\\\\ x_2 &= \frac{-4 - 8}{2} = \frac{-12}{2} = -6 \end{aligned}$${{< /spoiler >}}
+
+
+{{< spoiler text="**Penyelesaian**" >}}
+$$\begin{aligned}x_{1,2} &= \frac{-b\ \pm \sqrt{b^2 - 4ac}}{2a}\\\\ &= \frac{-(4)\ \pm \sqrt{(4)^2 - 4(1)(-12)}}{2(1)}\\\\    &= \frac{-4\ \pm \sqrt{16 + 48}}{2}\\\\ &= \frac{-4\ \pm \sqrt{64}}{2}\\\\ &= \frac{-4\ \pm 8}{2}\\\\ x_1 &= \frac{-4 + 8}{2} = \frac{4}{2} = 2\\\\ x_2 &= \frac{-4 - 8}{2} = \frac{-12}{2} = -6 \end{aligned}$$
+{{< /spoiler >}}
+
 <br>
 
 Selamat belajar
