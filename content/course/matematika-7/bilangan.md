@@ -29,19 +29,19 @@ projects: []
 ---
 Pada bab ini, akan dibahas:
 
-1. Membandingkan Bilangan Bulat
+1. Membandingkan Bilangan Bulat,
 
-2. Operasi Penjumlahan dan Pengurangan Bilangan Bulat
+2. Operasi Penjumlahan dan Pengurangan Bilangan Bulat,
 
-3. Operasi Perkalian dan Pembagian Bilangan Bulat
+3. Operasi Perkalian dan Pembagian Bilangan Bulat,
 
-4. Membandingkan Bilangan Pecahan
+4. Membandingkan Bilangan Pecahan,
 
-5. Kelipatan Persekutuan Terkecil dan Faktor Persekutuan Terbesar
+5. Kelipatan Persekutuan Terkecil dan Faktor Persekutuan Terbesar,
 
-6. Operasi Penjumlahan dan Pengurangan Bilangan Pecahan
+6. Operasi Penjumlahan dan Pengurangan Bilangan Pecahan,
 
-7. Operasi Perkalian dan Pembagian Bilangan Pecahan
+7. Operasi Perkalian dan Pembagian Bilangan Pecahan, dan
 
 8. Mengenal Bilangan Berpangkat Bulat Positif
 

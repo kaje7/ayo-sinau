@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hermawan
+title: Kaje
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,13 +40,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hermawan.joe@gmail.com'
+  link: 'mailto:joekher.jk@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/hermawanye
+  link: ""
 - icon: github
   icon_pack: fab
-  link: https://github.com/hermawanjoe
+  link: https://github.com/kaje7
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

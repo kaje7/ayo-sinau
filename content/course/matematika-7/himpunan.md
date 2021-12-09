@@ -30,9 +30,9 @@ image:
 projects: []
 ---
 
-### 1. Konsep Himpunan
+1. Konsep Himpunan,
 
-### 2. Sifat-sifat Himpunan
+2. Sifat-sifat Himpunan, dan
 
-### 3. Operasi Himpunan
+3. Operasi Himpunan
 
